@@ -1,1 +1,1 @@
-#Palacsinta recept:
+# Palacsinta recept:
